@@ -1,19 +1,10 @@
 const animals = {
     say(){
-        console.log(this.name, this.voice)
+        console.log(this.name, 'say', this.voice)
     }
 }
-const dog = {
-    name: "dog",
-    voice: "woof",
-};
-Object.setPrototypeOf(dog,animals);
-const cat = {
-    name: "cat",
-    voice: "meaw",
-}
-Object.setPrototypeOf(cat,animals);
-
+const dog = Object.create(animals);
+dog.name = "Dog";
+dog.voice = "Woof";
 
 dog.say();
-cat.say();
