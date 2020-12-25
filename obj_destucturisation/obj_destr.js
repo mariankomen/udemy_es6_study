@@ -2,9 +2,10 @@ const person = {
     name: {
         firstName: "Ivan",
         lastName: "Franko",
+        role: 'studier'
     },
     age: 55,
-    role: 'studier'
+
 }
- const { role = "master"} = person;
+ const { permissions = {role = "helo"} = {}} = person;
 console.log(role);
