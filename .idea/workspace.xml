@@ -22,12 +22,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/obj_destucturisation/obj_destr.js" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ternar_operator/ternar_op.js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="obj_destr.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="obj_destucturisation/obj_destr.js" working-dir="$PROJECT_DIR$">
+    <configuration name="ternar_op.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="ternar_operator/ternar_op.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
   </component>
@@ -39,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608912458095</updated>
-      <workItem from="1608912466552" duration="1943000" />
+      <workItem from="1608912466552" duration="2893000" />
     </task>
     <servers />
   </component>
@@ -47,29 +48,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608912588472">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608915388005">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1608912588472" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608912587557">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1608915388005" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608915387054">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608912587557" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1608914364260">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608915387054" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1608914433946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608914364260" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1608914364259">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608914433946" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1608914433945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608914364259" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1608914364259">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608914433945" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1608914433945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608914364259" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1608914364260">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608914433945" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1608914433946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608914364260" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608914433946" />
   </component>
 </project>
