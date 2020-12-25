@@ -1,4 +1,4 @@
-let arr = ['Artem', 'Andrey', 'Stepan', 'Vova', 'Sasha'];
+let arr = ['Artem', 'Andrey'];
 
-const [a,b, ...otherNames] = arr;
-console.log(a,b,otherNames);
+const [a,b, c = "Katya"] = arr;
+console.log(a,b,c);
