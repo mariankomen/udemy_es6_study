@@ -1,4 +1,8 @@
-let arr = ['Artem', 'Andrey'];
+const Prog = {
+    web: "JavaScript",
+    backend: "php",
+    mobile: "React Native"
+}
 
-const [a,b, c = "Katya"] = arr;
-console.log(a,b,c);
+const Arr = [Prog.web = "html", Prog.backend, Prog.mobile = "Swift"]
+console.log(Arr);
