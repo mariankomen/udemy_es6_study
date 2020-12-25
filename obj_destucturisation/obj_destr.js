@@ -1,11 +1,9 @@
-const person = {
-    name: {
-        firstName: "Ivan",
-        lastName: "Franko",
-        role: 'studier'
-    },
-    age: 55,
-
+function server({
+    host= "localhost",
+    port= 2313,
+    user= "admin" }) {
+    console.log("host: ", host, "port: ", port, "user: ", user);
 }
- const { permissions = {role = "helo"} = {}} = person;
-console.log(role);
+
+server({port: 42422});
+// ми зробили функцію яка приймає 3 значення, і задали дефолтні значення тих параметрів, так як ми передали в сервері лиш значення порту, то порт помінявся а все інше лишилось дефолтне
