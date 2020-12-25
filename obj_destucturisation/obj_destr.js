@@ -1,7 +1,9 @@
 const person = {
-    firstName: "Ivan",
-    lastName: "Franko",
+    name: {
+        firstName: "Ivan",
+        lastName: "Franko",
+    },
     age: 55
 }
- const { firstName, lastName} = person;
+ const { name: {firstName, lastName}} = person;
 console.log(firstName, lastName);
