@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5dca763-be58-4f07-afb3-af3f1bbeae68" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promises/promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/promises/promise.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +29,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/promises/promise.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/array_methods/push.js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="promise.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="promises/promise.js" working-dir="$PROJECT_DIR$">
+    <configuration name="push.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="array_methods/push.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
   </component>
@@ -48,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608912458095</updated>
       <workItem from="1608912466552" duration="16630000" />
-      <workItem from="1609083065482" duration="1220000" />
+      <workItem from="1609083065482" duration="1696000" />
     </task>
     <servers />
   </component>
@@ -56,34 +55,34 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608972297959">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609156402497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1608972297959" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1609156402497" />
     <state x="457" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608923643424">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="457" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1608923643424" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1608972297324">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1609156401842">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608972297324" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1608978496357">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609156401842" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1609156556726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608978496357" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1608978496356">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609156556726" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1609156556725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608978496356" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1608978496356">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609156556725" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1609156556725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608978496356" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1608978496357">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609156556725" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1609156556726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608978496357" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609156556726" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1608917149666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
