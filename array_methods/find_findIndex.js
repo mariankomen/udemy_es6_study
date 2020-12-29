@@ -8,7 +8,7 @@ let people = [
 
 const j = people.find(person => person.name === "Marian")
 console.log(j.name, j.budget);
-
+//helo
 
 const jIndex = people.findIndex(person => person.name === "Roman")
 console.log(`Roman's index is: ${jIndex}`);
