@@ -7,7 +7,7 @@ let people = [
 ]
 
 const j = people.find(person => person.name === "Marian")
-console.log(j.name, j.budget);
+console.log(j.budget, j.name);
 //helo
 
 const jIndex = people.findIndex(person => person.name === "Roman")
