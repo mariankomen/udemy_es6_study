@@ -20,3 +20,4 @@ let y = xxx.reduce((start, arr) => {
 
 console.log(x);
 console.log(y);
+console.log(y);
